@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  (1)SignupViewController.swift
 //  Snapchat
 //
 //  Created by Samyak Pawar on 11/07/20.
@@ -8,15 +8,15 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SignupViewController01: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
-    override var prefersStatusBarHidden: Bool{
-        return true
-    }
+    
+
+
 
 }
-
